@@ -14,3 +14,5 @@
 **Components（组件层）**：存放各功能模块的详细文档，每个模块对应独立文件，通常通过模板生成。例如 module-*.md 记录模块的设计与实现细节，api-*.md 描述接口规范，test-*.md 记录模块的测试方案等。组件层文档按需创建和维护，确保模块化开发中每个模块都有配套文档，从而降低模块耦合度，防止知识遗失。
 
 
+3、[分享claude code技巧，让Claude Code分别担任架构师、开发者、测试和文档工程师](https://linux.do/t/topic/784379)
+https://claude.ai/public/artifacts/e2725e41-cca5-48e5-9c15-6eab92012e75
